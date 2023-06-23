@@ -22,7 +22,7 @@ I'm a passionate web developer with expertise in full-stack development and a st
 ## Tools I'm familiar with
 <div style="display: flex;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="60"/>
-  <a href="framer.com/motion"><img src="https://cdn.iconscout.com/icon/free/png-256/free-framer-logo-3609961-3014601.png"  height="60"/></a>
+  <a href="www.framer.com/motion"><img src="https://cdn.iconscout.com/icon/free/png-256/free-framer-logo-3609961-3014601.png"  height="60"/></a>
   <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/jqycac4nitgaoauawrxg" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height="60"/>
   <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" height="60"/>
