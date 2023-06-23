@@ -6,5 +6,5 @@ I'm a passionate web developer with expertise in full-stack development and a st
 ## Languages I'm familiar with
 <div style="display: flex;">
   <img src="https://media.istockphoto.com/id/1413514774/photo/stylized-3d-html-icon-design.webp?        b=1&s=170667a&w=0&k=20&c=OrkPbETxWlQ4FQSfTku07zULRenQ6KnxkGM4nU5H_Kk=" width="50"/>
-  <img src="https://media.istockphoto.com/id/1413514596/photo/stylized-3d-css-icon-design.webp?b=1&s=170667a&w=0&k=20&c=Y2wiMC1eKiraLPz-NZmIhyk-ZJfr_FxUHXZ_3lmmLlg=" width="50"/>
+  <img src="https://media.istockphoto.com/id/1413514596/photo/stylized-3d-css-icon-design.webp?b=1&s=170667a&w=0&k=20&c=Y2wiMC1eKiraLPz-NZmIhyk-ZJfr_FxUHXZ_3lmmLlg=" width="60"/>
 </div>
