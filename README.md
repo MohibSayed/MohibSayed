@@ -4,4 +4,4 @@
 I'm a passionate web developer with expertise in full-stack development and a strong focus on making user-friendly web applications using modern web technologies and frameworks. I have hands-on experience in various tech-stacks by building real-life projects. I'm always eager to learn new frameworks/technologies that contribute to the overall seamless experience of users.
 
 ## Languages I'm familiar with
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AHTML5_Badge.svg&psig=AOvVaw2V1EbnJVVSwtG5c_k6NvaC&ust=1687600119640000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjEqb-O2f8CFQAAAAAdAAAAABAI"/>
+<img src="https://media.istockphoto.com/id/1413514774/photo/stylized-3d-html-icon-design.webp?b=1&s=170667a&w=0&k=20&c=OrkPbETxWlQ4FQSfTku07zULRenQ6KnxkGM4nU5H_Kk="/>
