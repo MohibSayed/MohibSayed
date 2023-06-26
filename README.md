@@ -23,6 +23,7 @@
   <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/jqycac4nitgaoauawrxg" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height="60"/>
   <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" height="60"/>
+  <img src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png" height="60"/>
 </div>
 
 
@@ -35,13 +36,15 @@
   <br/>
 
   ## <br/>My Projects
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohibSayed&repo=WB_Expense_Tracker)](https://github.com/MohibSayed/WB_Expense_Tracker)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohibSayed&repo=Bank_Management_C)](https://github.com/MohibSayed/Bank_Management_C)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohibSayed&repo=UrbanGarden-1)](https://github.com/MohibSayed/UrbanGarden-1)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohibSayed&repo=EduStacks)](https://github.com/MohibSayed/EduStacks)
+    
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohibSayed&repo=UrbanGarden)](https://github.com/MohibSayed/UrbanGarden)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohibSayed&repo=TimeDesk)](https://github.com/MohibSayed/TimeDesk)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohibSayed&repo=WB2-ExpenseTracker)](https://github.com/MohibSayed/WB2-ExpenseTracker)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohibSayed&repo=Bank_Management)](https://github.com/MohibSayed/Bank_Management)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohibSayed&repo=EduStacks-HP)](https://github.com/MohibSayed/EduStacks-HP)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohibSayed&repo=OrganicStore)](https://github.com/MohibSayed/OrganicStore)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohibSayed&repo=Time-Desk)](https://github.com/MohibSayed/Time-Desk)
-
+    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohibSayed&repo=WB1-Spotify)](https://github.com/MohibSayed/WB1-Spotify)
+  
 ## <br/>Useful Links
 <a href="https://www.linkedin.com/in/mohib-abbas-sayed-83837422a/">linkedin/mohibsayed</a> <br/>
 <a href="https://mohibsayed.vercel.app/">mohibsayed.vercel.app</a>
